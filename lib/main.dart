@@ -30,7 +30,7 @@ class MyApp extends StatelessWidget {
             Positioned(
               top: note.Topposition,
               child: SizedBox(width: 40,
-                child: Image.asset("assets/images/altnota.png"),
+                child: Image.asset("assets/images/ustnota.png"),
               ),
             ),
           ]
